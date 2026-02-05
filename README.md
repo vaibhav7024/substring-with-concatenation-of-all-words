@@ -1,3 +1,5 @@
+
+
 # substring-with-concatenation-of-all-words
 
 You are given a string s and an array of strings words. All the strings of words are of the same length.
